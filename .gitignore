@@ -1,0 +1,5 @@
+echo __pycache__/ > .gitignore
+echo *.pickle >> .gitignore
+echo *.json >> .gitignore
+echo env/ >> .gitignore
+echo bengaluru_house_prices.csv >> .gitignore
